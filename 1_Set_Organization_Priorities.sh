@@ -51,8 +51,8 @@ plistlocation="$dir/org_security_score.plist"
 ##################################################################
 
 # 1.1 Verify all Apple provided software is current
-# OrgScore1_1="true"
-OrgScore1_1="false"
+OrgScore1_1="true"
+# OrgScore1_1="false"
 
 # 1.2 Enable Auto Update 
 OrgScore1_2="true"
@@ -87,12 +87,12 @@ OrgScore2_3_1="true"
 # OrgScore2_3_1="false"
 
 # 2.3.2 Secure screen saver corners 
-OrgScore2_3_2="true"
-# OrgScore2_3_2="false"
+# OrgScore2_3_2="true"
+OrgScore2_3_2="false"
 
 # 2.3.4 Set a screen corner to Start Screen Saver 
-OrgScore2_3_4="true"
-# OrgScore2_3_4="false"
+# OrgScore2_3_4="true"
+OrgScore2_3_4="false"
 
 # 2.4.1 Disable Remote Apple Events 
 OrgScore2_4_1="true"
@@ -215,20 +215,20 @@ OrgScore5_7="true"
 # OrgScore5_7="false"
 
 # 5.8 Disable automatic login
-OrgScore5_8="true"
-# OrgScore5_8="false"
+# OrgScore5_8="true"
+OrgScore5_8="false"
 
 # 5.9 Require a password to wake the computer from sleep or screen saver
-OrgScore5_9="true"
-# OrgScore5_9="false"
+# OrgScore5_9="true"
+OrgScore5_9="false"
 
 # 5.10 Require an administrator password to access system-wide preferences
 OrgScore5_10="true"
 # OrgScore5_10="false"
 
 # 5.18 System Integrity Protection status
-OrgScore5_18="true"
-# OrgScore5_18="false"
+# OrgScore5_18="true"
+OrgScore5_18="false"
 
 # 6.1.4 Disable "Allow guests to connect to shared folders"
 OrgScore6_1_4="true"
